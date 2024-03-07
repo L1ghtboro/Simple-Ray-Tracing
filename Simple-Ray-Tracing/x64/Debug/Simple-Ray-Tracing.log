@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Simple-Ray-Tracing.vcxproj -> A:\Projects-cpp\Simple-Ray-Tracing\x64\Debug\Simple-Ray-Tracing.exe

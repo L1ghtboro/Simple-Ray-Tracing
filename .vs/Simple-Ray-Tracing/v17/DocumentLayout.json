@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Projects-cpp\\Simple-Ray-Tracing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|solutionrelative:Simple-Ray-Tracing\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|solutionrelative:Simple-Ray-Tracing\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|solutionrelative:Simple-Ray-Tracing\\Vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|solutionrelative:Simple-Ray-Tracing\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|solutionrelative:Simple-Ray-Tracing\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|solutionrelative:Simple-Ray-Tracing\\Vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Ray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0528EEFA-FFE2-40CA-80CA-4E0469B49947}|Simple-Ray-Tracing\\Simple-Ray-Tracing.vcxproj|solutionrelative:Simple-Ray-Tracing\\Ray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sphere.h",
+              "DocumentMoniker": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Sphere.h",
+              "RelativeDocumentMoniker": "Simple-Ray-Tracing\\Sphere.h",
+              "ToolTip": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Sphere.h",
+              "RelativeToolTip": "Simple-Ray-Tracing\\Sphere.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-07T16:48:48.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sphere.cpp",
+              "DocumentMoniker": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Sphere.cpp",
+              "RelativeDocumentMoniker": "Simple-Ray-Tracing\\Sphere.cpp",
+              "ToolTip": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Sphere.cpp",
+              "RelativeToolTip": "Simple-Ray-Tracing\\Sphere.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T16:48:39.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vec3.h",
+              "DocumentMoniker": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Vec3.h",
+              "RelativeDocumentMoniker": "Simple-Ray-Tracing\\Vec3.h",
+              "ToolTip": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Vec3.h",
+              "RelativeToolTip": "Simple-Ray-Tracing\\Vec3.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-07T16:47:19.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vec3.cpp",
+              "DocumentMoniker": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Vec3.cpp",
+              "RelativeDocumentMoniker": "Simple-Ray-Tracing\\Vec3.cpp",
+              "ToolTip": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Vec3.cpp",
+              "RelativeToolTip": "Simple-Ray-Tracing\\Vec3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T16:47:09.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ray.h",
+              "DocumentMoniker": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Ray.h",
+              "RelativeDocumentMoniker": "Simple-Ray-Tracing\\Ray.h",
+              "ToolTip": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Ray.h",
+              "RelativeToolTip": "Simple-Ray-Tracing\\Ray.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-07T16:46:46.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ray.cpp",
+              "DocumentMoniker": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Ray.cpp",
+              "RelativeDocumentMoniker": "Simple-Ray-Tracing\\Ray.cpp",
+              "ToolTip": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Ray.cpp",
+              "RelativeToolTip": "Simple-Ray-Tracing\\Ray.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T16:46:36.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Source.cpp",
+              "RelativeDocumentMoniker": "Simple-Ray-Tracing\\Source.cpp",
+              "ToolTip": "A:\\Projects-cpp\\Simple-Ray-Tracing\\Simple-Ray-Tracing\\Source.cpp",
+              "RelativeToolTip": "Simple-Ray-Tracing\\Source.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T16:35:18.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
